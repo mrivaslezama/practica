@@ -1,6 +1,7 @@
 {
+  "homepage": "https://mrivaslezama.github.io/practica/",
   "name": "practica",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
