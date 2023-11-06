@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Esta pagina va a ser realmente increible</h1>
       
-      
+      <div>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
